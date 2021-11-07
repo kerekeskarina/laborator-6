@@ -1,0 +1,49 @@
+
+body {
+  background-color: LightGrey;
+}
+
+h1 {
+  color:SlateBlue;
+  text-align: left;}
+  table, th, td {
+  border: 1px solid brown;
+}
+#par1{ color: violet;
+text-align: center;
+}
+ol {
+  list-style-type: circle;
+}
+
+
+img{  border-radius: 25px;
+width: 600px;
+  height: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: SlateBlue;
+  font-family:papyrus;
+
+}
+
+li {
+  color: violet;
+  table, th, td {
+  border: 1px solid black;
+}
+}
+
+
+p {
+  color: violet;
+  font-style: italic;
+  font-size: 36px;
+}
+
+</style>
+</head>
